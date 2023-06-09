@@ -5,8 +5,6 @@ Handling Errors in golang
 Usage:
 
 ```go
-//go:build docker
-// +build docker
 
 package errors_test
 
